@@ -1,5 +1,11 @@
 # The Midnight Stacks
 
+[![make.fun](https://make.fun/badge/bounty/best-stealth-game-20261121-1759)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![make.fun entry](https://make.fun/badge/entry/best-stealth-game-20261121-1759)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![make.fun game](https://make.fun/badge/game/best-stealth-game-20261121-1759)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+
+Entri untuk kompetisi [Make the best stealth game](https://make.fun/bounty/best-stealth-game-20261121-1759) di make.fun.
+
 Top-down stealth di arsip berlentera. Kamu arsiparis malam: ambil ledger
 tersegel, capai pintu keluar — tanpa satu pun penjaga melihatmu.
 
